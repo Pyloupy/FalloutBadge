@@ -7,5 +7,6 @@ PCB:
 <img src=pcb.png width = 500>
 And 3d view!
 <img src=3dview.png width = 500>
+<img src=3dview2.png width = 500>
 
 My slack username : Pylou
